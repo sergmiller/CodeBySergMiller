@@ -1,1 +1,1 @@
-# CodeBySergMiller
+# Edmonds–Karp algorithm
